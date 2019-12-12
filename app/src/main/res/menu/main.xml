@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/newWords_item"
+        android:title="打开生词本" />
+    <item
+        android:id="@+id/add_item"
+        android:title="增加单词" />
+    <item
+        android:id="@+id/search_inter_item"
+        android:title="帮助" />
+</menu>
